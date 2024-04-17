@@ -17,12 +17,26 @@ It empowers organizations to make data-driven decisions, align sales efforts wit
 
 <b>Questions Raised by Business:</b><br>
 -What is the growth percentage for each product from 2020 to 2021?<br>
--Which market is missing it's target ?<br>
-- What is the market Performance wrt Target which Atliq has set?<br>
+-Which market is missing its target ?<br>
+- What is the market performance WRT Target that Atliq has set?<br>
 - What are the top 10 products based on the percentage increase in their net sales from 2020 to 2021?<br>
 - Generate a "Division" report to present the net sales data for 2020 and 2021, along with the growth percentage.<br>
 - Which products are ranked in the top 5 and bottom 5 in terms of quantity sold?<br>
 - What are the new products that Atliq began selling in 2021? (Hint: Find rows that contain a percentage value of 0% in the "21 vs 20" column)<br>
 - What are the top 5 countries in terms of net sales in 2021?<br>
+
+𝗣𝗿𝗼𝗰𝗲𝘀𝘀 𝗙𝗼𝗹𝗹𝗼𝘄𝗲𝗱:
+
+𝗥𝗲𝗮𝗱𝗶𝗻𝗴 𝗱𝗮𝘁𝗮 for better Understanding.<br>
+𝗗𝗮𝘁𝗮 Transformation it as required.(Power Query)<br>
+𝗣𝗿𝗼𝗰𝗲𝘀𝘀𝗶𝗻𝗴 𝗱𝗮𝘁𝗮 and creating additional table (dim_date) & columns like month and year.<br>
+**Data Modeling:** Power Pivot<br>
+𝗗𝗮𝘁𝗮 𝗮𝗻𝗮𝗹𝘆𝘀𝗶𝘀 with the help of Pivot Tables<br>
+
+𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗳𝗿𝗼𝗺 𝗣𝗿𝗼𝗷𝗲𝗰𝘁:<br>
+Creating Multiple Pivots and Exploring to analyze.<br>
+Utilization of formula <br>
+Solution Design Process<br>
+DAX Formulas<br>
 
 
