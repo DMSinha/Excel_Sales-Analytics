@@ -39,4 +39,27 @@ Utilization of formula <br>
 Solution Design Process<br>
 DAX Formulas<br>
 
+<b>Snippets:</b><br>
+<b>Market Performance</b><br>
+<img width="457" alt="image" src="https://github.com/DMSinha/Excel_Sales-Analytics/assets/101706831/4fb45a75-0942-4a51-9484-d0ae71df47ff"><br>
+
+<b>Top 10 Products</b><br>
+<img width="496" alt="image" src="https://github.com/DMSinha/Excel_Sales-Analytics/assets/101706831/ad2c8d26-551e-4d58-a0dc-78b45033d799"><br>
+
+<b>Division Report</b><br>
+<img width="397" alt="image" src="https://github.com/DMSinha/Excel_Sales-Analytics/assets/101706831/3919c9c2-a5e4-49f5-8a1d-c803280d3f33"><br>
+
+<b>Top 5 & Bottom 5 Product in terms of Quantity Sold</b><br>
+<img width="431" alt="image" src="https://github.com/DMSinha/Excel_Sales-Analytics/assets/101706831/2f5bb027-8a16-4f8a-9070-53be8679f22f"><br>
+
+<b>New Products Launched</b><br>
+<img width="476" alt="image" src="https://github.com/DMSinha/Excel_Sales-Analytics/assets/101706831/ecf0ee5d-79d2-474e-825b-45e1208d2374"><br>
+
+<b>Top 5 countries in terms of Net Sales</b><br>
+<img width="385" alt="image" src="https://github.com/DMSinha/Excel_Sales-Analytics/assets/101706831/69f7b53a-33ab-4baf-a895-d3fcf8ea33a2"><br>
+
+
+
+
+
 
